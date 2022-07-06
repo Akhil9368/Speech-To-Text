@@ -13,7 +13,7 @@ function voices(){
         // // for adding the options in the select portion
         //selectmenu[0].firstElementChild.insertAdjacentHTML("afterend",option)
     
-        voicelist.insertAdjacentElement("beforeend",option);
+        voicelist.insertAdjacentHTML("beforeend",option);
 
     }
 }
